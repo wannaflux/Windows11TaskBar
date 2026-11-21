@@ -1,0 +1,5 @@
+**/bin/
+**/obj/
+Portable/
+Distribution/
+Verification/
