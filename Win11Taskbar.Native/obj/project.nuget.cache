@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WbKqTJjOjgo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Админ\\Documents\\Codex\\2026-11-08\\new-chat-3\\outputs\\Win11Taskbar\\Win11Taskbar.Native\\Win11Taskbar.Native.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.28\\microsoft.netcore.app.runtime.win-x64.8.0.28.nupkg.sha512",
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.28\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.28.nupkg.sha512",
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.28\\microsoft.aspnetcore.app.runtime.win-x64.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

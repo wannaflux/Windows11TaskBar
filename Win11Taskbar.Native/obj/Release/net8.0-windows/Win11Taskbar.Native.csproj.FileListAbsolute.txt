@@ -1,0 +1,11 @@
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Native\obj\Release\net8.0-windows\Win11Taskbar.Native.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Native\obj\Release\net8.0-windows\Win11Taskbar.Native.AssemblyInfoInputs.cache
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Native\obj\Release\net8.0-windows\Win11Taskbar.Native.AssemblyInfo.cs
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Native\obj\Release\net8.0-windows\Win11Taskbar.Native.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Native\bin\Release\net8.0-windows\Win11Taskbar.Native.deps.json
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Native\bin\Release\net8.0-windows\Win11Taskbar.Native.dll
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Native\bin\Release\net8.0-windows\Win11Taskbar.Native.pdb
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Native\obj\Release\net8.0-windows\Win11Taskbar.Native.dll
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Native\obj\Release\net8.0-windows\refint\Win11Taskbar.Native.dll
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Native\obj\Release\net8.0-windows\Win11Taskbar.Native.pdb
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Native\obj\Release\net8.0-windows\ref\Win11Taskbar.Native.dll

@@ -1,0 +1,15 @@
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Core\bin\Release\net8.0-windows\Win11Taskbar.Core.deps.json
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Core\bin\Release\net8.0-windows\Win11Taskbar.Core.dll
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Core\bin\Release\net8.0-windows\Win11Taskbar.Core.pdb
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Core\bin\Release\net8.0-windows\Win11Taskbar.Native.dll
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Core\bin\Release\net8.0-windows\Win11Taskbar.Native.pdb
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Core\obj\Release\net8.0-windows\Win11Taskbar.Core.csproj.AssemblyReference.cache
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Core\obj\Release\net8.0-windows\Win11Taskbar.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Core\obj\Release\net8.0-windows\Win11Taskbar.Core.AssemblyInfoInputs.cache
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Core\obj\Release\net8.0-windows\Win11Taskbar.Core.AssemblyInfo.cs
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Core\obj\Release\net8.0-windows\Win11Taskbar.Core.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Core\obj\Release\net8.0-windows\Win11Tas.84BB2070.Up2Date
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Core\obj\Release\net8.0-windows\Win11Taskbar.Core.dll
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Core\obj\Release\net8.0-windows\refint\Win11Taskbar.Core.dll
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Core\obj\Release\net8.0-windows\Win11Taskbar.Core.pdb
+C:\Users\Админ\Documents\Codex\2026-11-08\new-chat-3\outputs\Win11Taskbar\Win11Taskbar.Core\obj\Release\net8.0-windows\ref\Win11Taskbar.Core.dll
